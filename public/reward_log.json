@@ -1,0 +1,164 @@
+[
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-18T15:44:11.678Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "love",
+    "reward": 10,
+    "timestamp": "2025-04-18T15:44:26.271Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-18T15:45:13.712Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-18T16:08:01.759Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-04-18T16:23:51.674Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-20T09:10:03.475Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-20T12:44:00.047Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-20T12:54:53.047Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-04-20T13:44:43.306Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-04-20T16:18:37.383Z",
+    "studentId": "student_001"
+  },
+  {
+    "studentId": "student1",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T03:12:14.594Z",
+    "points": 5
+  },
+  {
+    "studentId": "student_001",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T03:46:46.065Z",
+    "points": 5
+  },
+  {
+    "studentId": "student_001",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T03:55:55.870Z",
+    "points": 5
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-21T04:09:43.562Z",
+    "studentId": "student_001"
+  },
+  {
+    "studentId": "student_001",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T04:10:03.327Z",
+    "points": 5
+  },
+  {
+    "studentId": "student_001",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T04:26:54.440Z",
+    "points": 5
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-21T04:31:36.387Z",
+    "studentId": "student_001"
+  },
+  {
+    "studentId": "student_001",
+    "source": "Daily Quiz",
+    "date": "2025-04-21T05:14:11.202Z",
+    "points": 5
+  },
+  {
+    "chapter": "Decimals",
+    "reward": 10,
+    "timestamp": "2025-04-21T05:14:40.259Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-21T09:38:19.128Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "decimals",
+    "reward": 10,
+    "timestamp": "2025-04-21T10:56:10.207Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "fractions",
+    "reward": 10,
+    "timestamp": "2025-04-21T11:26:21.687Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "Fractions",
+    "reward": 10,
+    "timestamp": "2025-04-21T12:44:24.227Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-04-21T12:49:36.498Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratio",
+    "reward": 10,
+    "timestamp": "2025-05-08T15:59:24.338Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "Triangles",
+    "reward": 10,
+    "timestamp": "2025-05-08T17:28:36.901Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-05-09T06:29:02.071Z",
+    "studentId": "student_001"
+  }
+]

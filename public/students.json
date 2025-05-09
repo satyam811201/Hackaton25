@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice",
+    "grade": 4,
+    "math_topic": "Triangles",
+    "project": {
+      "title": "Understanding Triangles",
+      "description": "Explore different types of triangles (Equilateral, Isosceles, Scalene) and learn how to calculate their area.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bbpF3XQ5c7w&pp=0gcJCdgAo7VqN5tD"
+    }
+  },
+  {
+    "name": "Bob",
+    "grade": 4,
+    "math_topic": "Fractions",
+    "project": {
+      "title": "Mastering Fractions",
+      "description": "Learn how to add, subtract, multiply, and divide fractions with interactive examples.",
+      "youtubeUrl": "https://www.youtube.com/playlist?list=PLFHgG0iiJ92skXtn3xSgg1x3rjvY6yzUO"
+    }
+  },
+  {
+    "name": "Charlie",
+    "grade": 4,
+    "math_topic": "Geometry",
+    "project": {
+      "title": "Exploring Geometry Shapes",
+      "description": "Understand the properties of geometric shapes like squares, circles, and polygons.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FixHruH090Q"
+    }
+  },
+  {
+    "name": "Daisy",
+    "grade": 4,
+    "math_topic": "Angles",
+    "project": {
+      "title": "Angle Exploration",
+      "description": "Learn about acute, obtuse, and right angles, and how to measure them using a protractor.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xfkqgU9UGmM&pp=0gcJCdgAo7VqN5tD"
+    }
+  },
+  {
+    "name": "Ethan",
+    "grade": 4,
+    "math_topic": "Measurement",
+    "project": {
+      "title": "Mastering Measurement Units",
+      "description": "Understand various units of measurement (length, weight, volume) and how to convert them.",
+      "youtubeUrl": "https://www.youtube.com/playlist?list=PLSQl0a2vh4HATvRXDVB4hbnSKZ30TEN9X"
+    }
+  }
+]
