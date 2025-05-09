@@ -216,13 +216,13 @@ export default function Home() {
             )}
 
             <Block
-              title="💡 Where this is used!"
+              title="💡Application of concept"
               isOpen={expanded.elementary}
               onClick={() => handleToggle("elementary")}
               details={result.real_world_example?.elementary} // Pass elementary details
             />
             <Block
-              title="🚀 Real time use?"
+              title="🚀 How it is used in daily life"
               isOpen={expanded.advanced}
               onClick={() => handleToggle("advanced")}
               details={result.real_world_example?.advanced} // Pass advanced details

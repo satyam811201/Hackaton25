@@ -160,5 +160,17 @@
     "reward": 10,
     "timestamp": "2025-05-09T06:29:02.071Z",
     "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-05-09T10:45:00.356Z",
+    "studentId": "student_001"
+  },
+  {
+    "chapter": "ratios",
+    "reward": 10,
+    "timestamp": "2025-05-09T10:46:25.242Z",
+    "studentId": "student_001"
   }
 ]
